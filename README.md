@@ -1,5 +1,5 @@
 ## Hi, I'm is MD Roshidul Shorker👋
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+
 ###Web Developer
 ![Profile views](https://gpvc.arturio.dev/nbproshidul)  
 ![Web Developer](https://yt3.ggpht.com/9oVMQQY-Oy_hOBe_rMHzH6Kuc4ODd4T8ntSC3iQ6shgoY3LxiHlOIVNyWQlclBJwVJyT2RZP-w=w2560-fcrop64=1)
@@ -11,6 +11,7 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / PHP
 👉 🔭 I’m currently working on YouTube <br>
 👉 🌱 I’m currently learning JavaScript 
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nbproshidul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nbproshidul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nbproshidul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCRvu4Sg_zymVxaerbJ5awtA)  
 
