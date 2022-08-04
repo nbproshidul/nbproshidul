@@ -8,7 +8,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills: HTML / CSS / Bootstrap / JS / jQuery / PHP
 
-👉 🔭 I’m currently working on YouTube 
+👉 🔭 I’m currently working on YouTube <br>
 👉 🌱 I’m currently learning JavaScript 
 
 
