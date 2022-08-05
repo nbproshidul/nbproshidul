@@ -1,4 +1,4 @@
-## Hi, I'm is MD Roshidul Shorker👋
+## Hi, I'm MD Roshidul👋
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 ### Web Developer
 
